@@ -15,7 +15,7 @@ random_hex = lambda x: ''.join([choice('0123456789abcdef') for _ in range(x)])
 secret = str(random.random())
 secret_hash = sm3.sm3_hash(func.bytes_to_list(bytes(secret, encoding='utf-8')))
 secret_len = len(secret)
-append_m = "1901210403"   # 附加消息
+append_m = "3986211402"   # 附加消息
 pad_str = ""
 pad = []
 
