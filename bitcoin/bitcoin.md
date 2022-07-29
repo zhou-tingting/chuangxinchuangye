@@ -4,7 +4,7 @@
 
 运行指导
 =====
-代码可以直接在Thonny或者IDLE上运行
+bitcoin.py为实现代码，可以直接在Thonny或者IDLE上运行
 
 运行结果
 ===
