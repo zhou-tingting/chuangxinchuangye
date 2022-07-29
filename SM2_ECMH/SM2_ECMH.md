@@ -4,7 +4,8 @@
 
 运行指导
 ===
-SM2_ECMH.py为实现代码，可以在Thonny或者IDLE上直接运行
+SM2_ECMH.py为实现代码，可以在Thonny或者IDLE上直接运行。  
+代码中函数使用可见注释。
 
 ECMH说明
 ======
