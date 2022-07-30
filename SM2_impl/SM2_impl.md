@@ -21,6 +21,10 @@ class sm2Encrypt:
         decode_info = sm2_crypt.decrypt(decode_info).decode(encoding="utf-8")  
         return decode_info  
 
+参考文献
+===
+https://blog.csdn.net/u014651560/article/details/113744296  
+
 运行结果
 ===
 ![U0@4K{367}V6B52YV`(F3HY](https://user-images.githubusercontent.com/109579171/181788771-3ba9543a-2125-4b4e-8ab5-2272f4e468c6.png)
