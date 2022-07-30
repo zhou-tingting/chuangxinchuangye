@@ -18,6 +18,10 @@ Merkletree* Creat_Merkle_Tree(Merkletree* tree, char** s, int n)//根据RFC6962�
 char** divide_string(char* str, int* number)//字符串分割  
 void delete_tree(Merkletree* tree)//删除Merkletree
 
+参考文献
+====
+https://blog.csdn.net/Ciellee/article/details/108073025  
+
 运行结果
 ====
 ![IFYI)N_WS07G{ 8ET35SRUQ](https://user-images.githubusercontent.com/109579171/181785885-ceb14cb2-f72d-44b6-8d35-c8440a2bc685.png)
