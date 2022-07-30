@@ -11,6 +11,10 @@ ECMH说明
 ======
 ECMH哈希算法思路就是把哈希映射成椭圆曲线上的点，然后利用ECC的加法。要达到相同的安全性，ECMH算法需要的密钥长短远远小于哈希求和算法。
 
+参考文献
+====
+https://blog.csdn.net/jason_cuijiahui/article/details/86711927
+
 运行结果
 ====
 ![UQ42IR18_ZQ@{K5_LQ1$A9G](https://user-images.githubusercontent.com/109579171/181791654-037ab8a2-0b3e-4354-be9b-72db241950e4.png)
